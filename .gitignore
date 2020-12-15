@@ -1,1 +1,12 @@
 *.pyc
+
+# Emacs files
+*~
+*#
+
+#configuration
+ezreg/config.py
+
+# django djunk
+files
+static
